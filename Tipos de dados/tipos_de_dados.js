@@ -34,3 +34,4 @@ console.log({
 // ARRAY(Vetores)
 // Uma lista
 console.log(["Item 1","Item 2","Item 3"])
+
