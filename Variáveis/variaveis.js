@@ -8,3 +8,4 @@ console.log(clima)
 clima = "Frio"
 console.log(clima)
 
+// Lembrando que o JS é case-sensitive, ou seja, letras maiúsculas, minúsculas, pontuacão, fazem a variável ser diferente
